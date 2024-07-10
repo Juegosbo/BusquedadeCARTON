@@ -112,6 +112,6 @@ function searchCarton() {
         message.textContent = `Cartón número: ${cartonNumber}`;
     } else {
         cartonImage.style.display = 'none';
-        message.textContent = 'Introduce un número de cartón válido entre 1 y 10.';
+        message.textContent = 'Introduce un número de cartón válido entre 1 y 100.';
     }
 }
