@@ -1,5 +1,5 @@
 const cartonImages = {
-   1: '001.png',
+    1: '001.png',
     2: '002.png',
     3: '003.png',
     4: '004.png',
