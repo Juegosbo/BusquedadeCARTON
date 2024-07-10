@@ -1,14 +1,14 @@
 const cartonImages = {
-    1: '001.jpg',
-    2: '002.jpg',
-    3: '003.jpg',
-    4: '004.jpg',
-    5: '005.jpg',
-    6: '006.jpg',
-    7: '007.jpg',
-    8: '008.jpg',
-    9: '009.jpg',
-    10: '010.jpg'
+    1: '001.png',
+    2: '002.png',
+    3: '003.png',
+    4: '004.png',
+    5: '005.png',
+    6: '006.png',
+    7: '007.png',
+    8: '008.png',
+    9: '009.png',
+    10: '010.png'
 };
 
 function searchCarton() {
